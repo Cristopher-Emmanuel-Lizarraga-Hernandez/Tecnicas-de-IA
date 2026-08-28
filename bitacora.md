@@ -4,3 +4,9 @@
    ## Martes
    Investigamos qué es un perceptrón: su definición, estructura y funcionamiento 
    básico como unidad fundamental de las redes neuronales.
+   ## Miércoles
+   Clase libre, no hubo actividad formal.
+
+   ## Jueves
+   Estudiamos la función objetivo Ackley function, utilizada como función de 
+   prueba para algoritmos de optimización.
