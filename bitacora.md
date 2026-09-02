@@ -10,3 +10,10 @@
    ## Jueves
    Estudiamos la función objetivo Ackley function, utilizada como función de 
    prueba para algoritmos de optimización.
+
+   ## Lunes 2
+   El profesor reviso las actividades de la semana pasada
+
+   ## Martes 2
+   debatimos sobre un proyecto de software que hizimos individualmente
+   haciendo un ante proyecto donde solo hizimos los primeros puntos que son titulo y planteamiento del problema
