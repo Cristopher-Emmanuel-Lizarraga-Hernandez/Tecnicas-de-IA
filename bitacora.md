@@ -17,5 +17,11 @@
    ## Martes 2
    debatimos sobre un proyecto de software que hizimos individualmente
    haciendo un ante proyecto donde solo hizimos los primeros puntos que son titulo y planteamiento del problema
+   
    ## miercoles 2
    volvimos a hacer el problema de ackley pero con difente valor de las variables
+
+   ## jueves 2
+   hiziomo suna tabla donde recopilamos los anteproyectos de nuestros compañeros poniendo su nombre
+   titulo de su proyecto y de que trataba y el profesor nos asigno en equipos de 3 donde dicutimos nuestros proyectos
+   para la final solo escoger 1
