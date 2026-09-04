@@ -17,3 +17,5 @@
    ## Martes 2
    debatimos sobre un proyecto de software que hizimos individualmente
    haciendo un ante proyecto donde solo hizimos los primeros puntos que son titulo y planteamiento del problema
+   ## miercoles 2
+   volvimos a hacer el problema de ackley pero con difente valor de las variables
