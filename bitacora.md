@@ -25,3 +25,7 @@
    hiziomo suna tabla donde recopilamos los anteproyectos de nuestros compañeros poniendo su nombre
    titulo de su proyecto y de que trataba y el profesor nos asigno en equipos de 3 donde dicutimos nuestros proyectos
    para la final solo escoger 1
+   
+   
+   ## proyecto ia
+   himos sprints de loq ue tenemos planeado del proyecto
