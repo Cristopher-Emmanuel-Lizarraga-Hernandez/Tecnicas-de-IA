@@ -32,3 +32,6 @@
 
    ## proyecto ia avanze 2
    creamos un repositorio para trabajar en equipo
+   
+   ## proyecto ia avanze 3
+   avanzamos en el proyecto haciendo codigo en python para hacer el clasificador de rostros
