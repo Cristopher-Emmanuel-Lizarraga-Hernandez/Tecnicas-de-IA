@@ -29,3 +29,6 @@
    
    ## proyecto ia
    himos sprints de loq ue tenemos planeado del proyecto
+
+   ## proyecto ia avanze 2
+   creamos un repositorio para trabajar en equipo
