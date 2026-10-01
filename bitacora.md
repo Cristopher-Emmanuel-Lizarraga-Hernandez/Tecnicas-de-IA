@@ -39,3 +39,6 @@
    ## actividad y avance del proyecto
    resolvimos la sumatoria de un perceptron y la operacion matrial
    al proyecto le agregaremos una base de datos en php my admin
+
+   ## codigo en python
+   hizimos codificacion en python para visualizar tensores y matrizes
