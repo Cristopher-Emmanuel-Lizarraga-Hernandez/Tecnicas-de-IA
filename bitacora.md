@@ -25,7 +25,7 @@
    hiziomo suna tabla donde recopilamos los anteproyectos de nuestros compañeros poniendo su nombre
    titulo de su proyecto y de que trataba y el profesor nos asigno en equipos de 3 donde dicutimos nuestros proyectos
    para la final solo escoger 1
-   
+
    
    ## proyecto ia
    himos sprints de loq ue tenemos planeado del proyecto
@@ -42,3 +42,14 @@
 
    ## codigo en python
    hizimos codificacion en python para visualizar tensores y matrizes
+ 
+ 
+ ## mejora el detector de rostro usando DNN en vez de Haar Cascade
+
+ Se reemplaza el detector Haar Cascade por un modelo DNN (SSD sobre
+ResNet-10, preentrenado por OpenCV), que mejora notablemente la
+detección en ángulos, poca luz y rostros parcialmente cubiertos.
+
+Se crea detector.py como módulo compartido, usado ahora por
+detectar_rostro.py, enroll.py, verify.py, main.py y registrar.py,
+evitando duplicar la lógica de detección en cada script.
